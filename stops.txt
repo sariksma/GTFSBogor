@@ -1,0 +1,310 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
+Alfamidi Lotus Jasmine,,Alfamidi Lotus Jasmine,,-6.570540000,106.767440000,,,,,,2
+SMPN 6 Bogor,,SMPN 6 Bogor,,-6.577380000,106.772760000,,,,,,2
+RSUD Kota Bogor,,RSUD Kota Bogor ,,-6.581380000,106.777580000,,,,,,2
+Jl. Manungal,,Jl. Manungal,,-6.586420000,106.783100000,,,,,,2
+SMK YKTB,,SMK YKTB,,-6.589740000,106.785700000,,,,,,2
+Terminal Bus Merdeka Bogor,,Terminal Bus Merdeka Bogor,,-6.592461400,106.786293500,,,,,,2
+Jembatan Merah,,Jembatan Merah,,-6.595610000,106.788180000,,,,,,2
+Stasiun Bogor,,Stasiun Bogor,,-6.596110000,106.789680000,,,,,,2
+Resto Gumati,,Resto Gumati,,-6.601150000,106.792560000,,,,,,2
+Jl. Paledang,,Jl. Paledang,,-6.601410000,106.795100000,,,,,,2
+BTM,,BTM,,-6.604160000,106.796530000,,,,,,2
+STIE NIBA Business School,,STIE NIBA Business School,,-6.607950000,106.796000000,,,,,,2
+RSIA Melania,,RSIA Melania,,-6.611590000,106.800760000,,,,,,2
+Superindo,,Superindo,,-6.615230000,106.803940000,,,,,,2
+Pizza Hut,,Pizza Hut,, -6.618310000,106.806280000,,,,,,2	
+Puskesmas Batu Tulis,,Puskesmas Batu Tulis,,-6.621760000,106.808440000,,,,,,2
+Jl. Cipaku,,Jl. Cipaku,,-6.625390000,106.809950000,,,,,,2
+Apotik Panoyanan,,Apotik Panoyanan,,-6.627780000,106.809580000,,,,,,2
+Posyandu Seroja,,Posyandu Seroja,,-6.628440000,106.806850000,,,,,,2
+Masjid Al Qomar,,Masjid Al Qomar,,-6.627730000,106.804330000,,,,,,2
+Jl. Cipinang Gading/Rangga Mekar,,Jl. Cipinang Gading/Rangga Mekar,,-6.625670000,106.802930000,,,,,,2
+Jl. Cipinang Gading,,Jl. Cipinang Gading,,-6.623020000,106.800580000,,,,,,2
+Jl. Bogor Baru,,Jl. Bogor Baru,,-6.591730000,106.808840000,,,,,,2
+IPB Diploma,,IPB Diploma,,-6.591230000,106.805860000,,,,,,2
+Riset Perkebunan The,,Riset Perkebunan The,,-6.588780000,106.805060000,,,,,,2
+McDonalds Lodaya,,McDonalds Lodaya,,-6.592470000,106.804820000,,,,,,2
+Lippo Plaza Kebun Raya Bogor,,Lippo Plaza Kebun Raya Bogor,,-6.596060000,106.804350000,,,,,,2
+RS PMI Bogor,,RS PMI Bogor,,-6.598310000,106.804780000,,,,,,2
+SDN Bangka 3,,SDN Bangka 3,,-6.601770000,106.803970000,,,,,,2
+Plaza Bogor,,Plaza Bogor,,-6.602800000,106.799530000,,,,,,2
+Pustaka,,Pustaka,,-6.598130000,106.794120000,,,,,,2
+Kantor Bersama Samsat Kota Bogor,,Kantor Bersama Samsat Kota Bogor,,-6.594190000,106.795240000,,,,,,2
+LAPANGAN SEMPUR,,LAPANGAN SEMPUR,,-6.592570000,106.801700000,,,,,,2
+Jl. H. Moh. Tohir,,Jl. H. Moh. Tohir,,-6.591820000,106.814410000,,,,,,2
+SDN 1 Ciheuleut,,SDN 1 Ciheuleut,,-6.601850000,106.813730000,,,,,,2
+Universitas Pakuan Bogor,,Universitas Pakuan Bogor,,-6.599200000,106.812650000,,,,,,2
+Botani Square,,Botani Square,,-6.601850000,106.805530000,,,,,,2
+Terminal Baranangsiang,,Terminal Baranangsiang,,-6.603730000,106.806410000,,,,,,2
+Masjid Raya Kota Bogor,,Masjid Raya Kota Bogor,,-6.606920000,106.808900000,,,,,,2
+Jl. Sambu,,Jl. Sambu,,-6.606560000,106.807300000,,,,,,2
+Jl. Bangka,,Jl. Bangka,,-6.605160000,106.805100000,,,,,,2
+Polsek Bogor Selatan,,Polsek Bogor Selatan,,-6.611820000,106.801060000,,,,,,2
+Jl. Sekip,,Jl. Sekip,,-6.623660000,106.810940000,,,,,,2
+SDN Laanggintung 1,,SDN Laanggintung 1,,-6.622890000,106.812450000,,,,,,2
+SDN Laanggintung 2,,SDN Laanggintung 2,,-6.620890000,106.812450000,,,,,,2
+Jl. Sukasari - Toko Sepatu Milano,,Jl. Sukasari - Toko Sepatu Milano,,-6.618400000,106.812560000,,,,,,2
+Monumen Pungli,,Monumen Pungli,,-6.617650000,106.813500000,,,,,,2
+Jl. Sukasari,,Jl. Sukasari,,-6.618540000,106.815380000,,,,,,2
+Gg. Aut,,Gg. Aut,,-6.609850000,106.804400000,,,,,,2
+RS Vania,,RS Vania,,-6.612880000,106.807460000,,,,,,2
+Jl. Batu Tulis,,Jl. Batu Tulis,,-6.616230000,106.810190000,,,,,,2
+Taman Kencana,,Taman Kencana,,-6.588960000,106.801410000,,,,,,2
+Jl. Papandayan,,Jl. Papandayan,,-6.586530000,106.799870000,,,,,,2
+SMPN 20 Bogor,,SMPN 20 Bogor,,-6.583630000,106.800280000,,,,,,2
+Jl. Ciremei Ujung,,Jl. Ciremei Ujung,,-6.580550000,106.802040000,,,,,,2
+Jl. Kabandungan,,Jl. Kabandungan,,-6.578790000,106.802280000,,,,,,2
+Mesjid Baranang Siang 1,,Mesjid Baranang Siang 1,,-6.575290000,106.804350000,,,,,,2
+Sekolahan,,Sekolahan,,-6.572070000,106.807380000,,,,,,2
+arung Jambu,,arung Jambu,,-6.570220000,106.807550000,,,,,,2
+Jl. Pahlaan 2,,Jl. Pahlaan 2,,-6.612060000,106.802100000,,,,,,2
+Jl. Padasuka1,,Jl. Padasuka1,,-6.609660000,106.803130000,,,,,,2
+Jl. Padasuka2,,Jl. Padasuka2,,-6.608030000,106.801190000,,,,,,2
+Jl. Cincau 4,,Jl. Cincau 4,,-6.606800000,106.798930000,,,,,,2
+Jl. Cincau,,Jl. Cincau,,-6.604480000,106.797500000,,,,,,2
+Telkom IPB,,Telkom IPB,,-6.586900000,106.805610000,,,,,,2
+Masjid Salman Al Farisi,,Masjid Salman Al Farisi,,-6.583810000,106.806140000,,,,,,2
+Bangbarung,,Bangbarung,,-6.580850000,106.807130000,,,,,,2
+RS Azra,,RS Azra,,-6.579300000,106.807190000,,,,,,2
+Jl. Cemped,,Jl. Cemped,,-6.581080000,106.809250000,,,,,,2
+RS Mulia Pajajaran,,RS Mulia Pajajaran,,-6.575890000,106.807820000,,,,,,2
+PLN Bogor Timur,,PLN Bogor Timur,,-6.572140000,106.808540000,,,,,,2
+arung Nangka Rancamaya,,arung Nangka Rancamaya,, -6.676070000,106.848110000,,,,,,2
+Gedung Graha Hj Siti Hindun,,Gedung Graha Hj Siti Hindun,,-6.671270000,106.846910000,,,,,,2
+Rancamaya Golf Estate,,Rancamaya Golf Estate,,-6.662490000,106.845020000,,,,,,2
+Rancamaya2,,Rancamaya2,,-6.664370000,106.837590000,,,,,,2
+SDN Rancamaya 1,,SDN Rancamaya 1,,-6.666520000,106.830620000,,,,,,2
+Rivela Park Residence,,Rivela Park Residence,,-6.660300000,106.835000000,,,,,,2
+Kertamaya1,,Kertamaya1,,-6.652580000,106.829530000,,,,,,2
+Kantor Lurah Kertamaya,,Kantor Lurah Kertamaya,,-6.650210000	,106.826590000,,,,,,2
+Kertamaya-3,,Kertamaya-3,,-6.645980000,106.822300000,,,,,,2
+SDN Cipaku 01,,SDN Cipaku 01,,-6.636100000,106.813360000,,,,,,2
+TPU Gunung Gadung,,TPU Gunung Gadung,,-6.640250000,106.816900000,,,,,,2
+Puskesmas Cipaku,,Puskesmas Cipaku,,-6.630610000,106.810750000,,,,,,2
+Sekolah Nurul Fata,, Sekolah Nurul Fata,,-6.634620000,106.799220000,,,,,,2
+Toko Aura,, Toko Aura,, -6.634160000,106.801470000,,,,,,2
+Riyad Barokah Jaya,,Riyad Barokah Jaya,, -6.634710000,106.803610000,,,,,,2
+Sekolah Dasa Semesta,,Sekolah Dasa Semesta,,-6.632690000,106.805460000,,,,,,2
+Simpang Jl. Pabuaran,, Simpang Jl. Pabuaran,,-6.632200000,106.807530000,,,,,,2
+Jl. Muara2,,Jl. Muara2,,-6.614720000,106.792510000,,,,,,2
+Jl. Cipinang,,Jl. Cipinang,,-6.629060000,106.807210000,,,,,,2
+Suaka Peninggalan Sejarah & Purbakala,,Suaka Peninggalan Sejarah & Purbakala,,-6.623470000,106.808870000,,,,,,2
+Posyandu Cempaka 2,,Posyandu Cempaka 2,,-6.635830000,106.797380000,,,,,,2
+Aston,,Aston,,-6.637870000,106.796340000,,,,,,2
+Alfamart Cimahpar Raya,,Alfamart Cimahpar Raya,,-6.589750000,106.827620000,,,,,,2
+SDN Cimahpar,,SDN Cimahpar,,-6.589270000,106.824600000,,,,,,2
+Klinik Dokter Armina,,Klinik Dokter Armina,,-6.588860000,106.820920000,,,,,,2
+Jl. T. iradiredja,, Jl. T. iradiredja,,-6.590720000,106.816980000,,,,,,2
+Jl. Moh. Tohir,, Jl. Moh. Tohir,, -6.590850000,106.816690000,,,,,,2
+Jl. Citanduy,,Jl. Citanduy,,-6.591800000,106.811920000,,,,,,2
+CV. Multi Agrisarana,,CV. Multi Agrisarana,,-6.586839000,106.827784000,,,,,,2
+Perumahan Cimahpar Residence,,Perumahan Cimahpar Residence,,-6.582613500,106.825667800,,,,,,2
+Indo Gypsum,,Indo Gypsum,,-6.570158300	,106.821908300,,,,,,2
+Majlis Talim As Shogiri,,Majlis Talim As Shogiri,,-6.586200000,106.821510000,,,,,,2
+Pasar Tanah Baru,,Pasar Tanah Baru,,-6.582670000,106.822020000,,,,,,2
+Puskesmas Bogor Utara,,Puskesmas Bogor Utara,,-6.583029000,106.819708000,,,,,,2
+Bank BTN Kantor Kas Pandu,, Bank BTN Kantor Kas Pandu,,-6.582590000,106.817780000,,,,,,2
+Jl. Achmad Sobana,,Jl. Achmad Sobana,,-6.581320000,106.812720000,,,,,,2
+Jl. Gagalur 1,,Jl. Gagalur 1,,-6.580100000,106.810970000,,,,,,2
+Jl. Kresna Raya,, Jl. Kresna Raya,,-6.576650000,106.811030000	,,,,,,2
+Jl. Srikandi Raya,,Jl. Srikandi Raya,,-6.572000000,106.812010000,,,,,,2
+Jl. Bima Raya,,Jl. Bima Raya,,-6.569860000,106.812360000,,,,,,2
+BRJ BANDAR RAOS JAKARTA,, BRJ BANDAR RAOS JAKARTA,, -6.601557100,106.818423300,,,,,,2
+PERUMAHAN BARANANGSIANG INDAH,,PERUMAHAN BARANANGSIANG INDAH,,-6.611079400,106.821087500,,,,,,2
+Cucurak arung Sunda,, Cucurak arung Sunda,,-6.598130000,106.817730000,,,,,,2
+Indomaret Padi Ciheuleut,,Indomaret Padi Ciheuleut,,-6.600130000,106.814190000,,,,,,2
+Angkit01 (Angkringan Kita),, Angkit01 (Angkringan Kita),,-6.585642100,106.812341600,,,,,,2
+Jl. Sholeh Iskandar,,Jl. Sholeh Iskandar,,-6.564100000,106.810330000	,,,,,,2
+Roda Jaya Ban,,Roda Jaya Ban,,-6.566940300,106.809599900,,,,,,2
+Alfamart Kedung Badak,,Alfamart Kedung Badak,,-6.561760000,106.807160000,,,,,,2
+Ciparigi,, Ciparigi,,-6.561670000,106.803060000,,,,,,2
+Perum Griya Indah Bogor,, Perum Griya Indah Bogor,,-6.560910000,106.805110000,,,,,,2
+Warung Jambu,,Warung Jambu,,-6.563090000,106.809460000,,,,,,2
+Jl. Kaum Sari,, Jl. Kaum Sari,,-6.560120000,106.813400000,,,,,,2
+Polresta Bogor,,Polresta Bogor,,-6.556950000,106.815350000,,,,,,2
+Taman Bogor,, Taman Bogor,,-6.554360000,106.819410000	,,,,,,2
+Polsek Sukaraja,,Polsek Sukaraja,,-6.551590000,106.821280000,,,,,,2
+Pomad,,Pomad,,-6.548360000,106.823240000,,,,,,2
+MII (MI. Ianatusshibyan) Tanah Sareal,, MII (MI. Ianatusshibyan) Tanah Sareal,,-6.528713000,106.777227200,,,,,,2
+Villa Mutiara Bogor 1,, Villa Mutiara Bogor 1,,-6.517355700,106.776303100,,,,,,2
+Perumahan Vila Citra Bantarjati,,Perumahan Vila Citra Bantarjati,,-6.574870000,106.817720000,,,,,,2
+Terminal Bubulak,,Terminal Bubulak,,-6.570190000,106.754950000,,,,,,2
+Jl. HM. Syarifudin,,Jl. HM. Syarifudin,,-6.569320000,106.757410000,,,,,,2
+McDonalds Semplak,,McDonalds Semplak,,-6.564280000,106.762860000,,,,,,2
+Taman Yasmin,,Taman Yasmin,,-6.561710000,106.765510000,,,,,,2
+Ruko Taman Yasmin,,Ruko Taman Yasmin,,-6.560230000,106.767370000,,,,,,2
+Giant Yasmin,,Giant Yasmin,,-6.557530000,106.771060000,,,,,,2
+Pengadilan Agama Kota Bogor,, Pengadilan Agama Kota Bogor,,-6.556760000,106.775310000,,,,,,2
+Lotteria Pondok Yasmin,,Lotteria Pondok Yasmin,,-6.556260000,106.777930000,,,,,,2
+Lotteria Taman Yasmin,,Lotteria Taman Yasmin,,-6.556260000,106.778720000,,,,,,2
+Lampu Merah Semplak,, Lampu Merah Semplak,, -6.563940000,106.763560000,,,,,,2
+Pasar Maar,,Pasar Maar,,-6.589450000,106.787380000,,,,,,2
+Jl. Ciaringin II,, Jl. Ciaringin II,,-6.586950000,106.787670000,,,,,,2
+Dinas Sosial Bogor,, Dinas Sosial Bogor,, -6.585710000,106.787750000	,,,,,,2
+Masjid Martadinata,, Masjid Martadinata,,-6.582724500,106.787916700,,,,,,2
+Kantor Lurah Ciaringin,, Kantor Lurah Ciaringin,,-6.58282000,106.788910000,,,,,,2
+Jembatan RE. Martadinata,, Jembatan RE. Martadinata,,-6.583109500,106.791826400,,,,,,2
+Samudra Auto Center,,Samudra Auto Center,,-6.581640000,106.794270000,,,,,,2
+Air Mancur Fountain Park,, Air Mancur Fountain Park,,-6.581530000,106.796750000,,,,,,2
+GOR Padjajaran,,GOR Padjajaran,,-6.577260000,106.796550000,,,,,,2
+Jl. Ps. Hean,, Jl. Ps. Hean,,-6.573480000,106.796480000,,,,,,2
+SMPN 12,, SMPN 12,,-6.570330000,106.798540000,,,,,,2
+Gereja Dari Orang,, Gereja Dari Orang,,-6.567920000,106.801020000,,,,,,2
+Jl. A. Yani,, Jl. A. Yani,,-6.568760000,106.805340000,,,,,,2
+Plaza Jambu Dua,,Plaza Jambu Dua,,-6.568660000,106.808280000,,,,,,2
+Ujung Rute 08A/23 Pangkalan Ojek,,Ujung Rute 08A/23 Pangkalan Ojek,,-6.568650000,106.806780000,,,,,,2
+Pasar Mawar,,Pasar Mawar,,-6.589470000,106.787820000,,,,,,2
+Jl. Mayor Oking,,Jl. Mayor Oking,,-6.590750000,106.790640000,,,,,,2
+Indomaret Cimanggu Perikanan,,Indomaret Cimanggu Perikanan,,-6.569830000,106.786130000,,,,,,2
+Jl. Kb. Pedas I,,Jl. Kb. Pedas I,,-6.569450000,106.799000000,,,,,,2
+Kantor Dinas Pendidikan,,Kantor Dinas Pendidikan,,-6.567180000,106.800630000,,,,,,2
+Jl. Let. Tata inata,,Jl. Let. Tata inata,,-6.564640000,106.802010000,,,,,,2
+Jl. Raya Soleh Iskander,,Jl. Raya Soleh Iskander,,-6.562180900,106.800865200,,,,,,2
+UT Bogor,, UT Bogor,,-6.562500000,106.796040000,,,,,,2
+RS Islam,,RS Islam,,-6.561040000,106.791300000,,,,,,2
+Jl. Cimanggu ates,,Jl. Cimanggu ates,,-6.559950000,106.787530000,,,,,,2
+Ibnu Khaldun Universitas,,Ibnu Khaldun Universitas,,-6.559080000,106.784980000,,,,,,2
+Bukit Cimanggu,, Bukit Cimanggu,,-6.557760000,106.782540000,,,,,,2
+Auto 2000,,Auto 2000,,-6.555930000,106.778570000,,,,,,2
+RSIA. Bunda Suryatni,,RSIA. Bunda Suryatni,,-6.552440000,106.775670000,,,,,,2
+Jl. Gg. alet Kukupu,,Jl. Gg. alet Kukupu,,-6.548890000,106.774710000,,,,,,2
+Jl. ika Kencana,,Jl. ika Kencana,,-6.545920000,106.773790000,,,,,,2
+Jl. Kampoeng Kajoemanis,,Jl. Kampoeng Kajoemanis,,-6.542330000,106.772260000,,,,,,2
+Rumah Makan Nia,,Rumah Makan Nia,,-6.530650000,106.766510000,,,,,,2
+Islamic Center Ummul Quro,,Islamic Center Ummul Quro,,-6.526540000,106.764250000,,,,,,2
+Bank Mandiri Salabenda,, Bank Mandiri Salabenda,,-6.524010000,106.762050000,,,,,,2
+Salabenda,,Salabenda,,-6.523680000,106.761910000,,,,,,2
+SMK Kesehatan DPH Bogor,, SMK Kesehatan DPH Bogor,,-6.533870000,106.767830000,,,,,,2
+Jl. KH Sholeh Iskandar,, Jl. KH Sholeh Iskandar,,-6.537080000,106.769900000,,,,,,2
+SDN Kukupu 1,,SDN Kukupu 1,,-6.535750000,106.774650000,,,,,,2
+Jl. Kampung Kencana,,Jl. Kampung Kencana,,-6.534380000,106.782940000,,,,,,2
+Jl. K.H. Muhidin,, Jl. K.H. Muhidin,,-6.534070000,106.786840000,,,,,,2
+Kantor Kelurahan Kencana,, Kantor Kelurahan Kencana,,-6.530745800,106.786959200,,,,,,2
+Honda Mandiri Bogor,, Honda Mandiri Bogor,,-6.602560000,106.810990000,,,,,,2
+Politeknik Kent,, Politeknik Kent,,-6.601530000,106.812230000,,,,,,2
+KPP IPB Baranangsiang 4,,KPP IPB Baranangsiang 4,,-6.596560000,106.817800000,,,,,,2
+IPB 4-Ayam Gepuk,,IPB 4-Ayam Gepuk,,-6.592350000,106.817060000,,,,,,2
+Bamboo Dimsum Pandu,, Bamboo Dimsum Pandu,,-6.587350000,106.816380000,,,,,,2
+Padepokan Prana Suci,,Padepokan Prana Suci,,-6.589440000,106.818430000,,,,,,2
+Tanah Baru Padjajaran,, Tanah Baru Padjajaran,,-6.580090000,106.822480000,,,,,,2
+Kantor Pos Tanah Baru,,Kantor Pos Tanah Baru,,-6.577940000,106.822680000,,,,,,2
+Nusa Indah Residence,,Nusa Indah Residence,,-6.573700000,106.822600000,,,,,,2
+Jl. Pangeran Assogiri,,Jl. Pangeran Assogiri,,-6.572160000,106.822130000,,,,,,2
+Politeknik Aka Bogor,,Politeknik Aka Bogor,,-6.565600000,106.822170000,,,,,,2
+Perumahan Taman Kenari,, Perumahan Taman Kenari,,-6.563340000,106.822420000,,,,,,2
+Perumahan Tanah Baru Blok A,, Perumahan Tanah Baru Blok A,,-6.561550000,106.822600000,,,,,,2
+Gedung PGRI Bogor,, Gedung PGRI Bogor,,-6.558420000,106.823100000,,,,,,2
+Hollyood Square,,Hollyood Square,,-6.555040000,106.823990000,,,,,,2
+SMKN 2 Bogor,,SMKN 2 Bogor,,-6.552630000,106.824810000,,,,,,2
+Indomaret Pangeran Assogiri,,Indomaret Pangeran Assogiri,,-6.550100000,106.824580000,,,,,,2
+Mulyaharja,,Mulyaharja,,-6.646880000,106.780330000,,,,,,2
+Gg. Kabayan,,Gg. Kabayan,,-6.645160000,106.782600000,,,,,,2
+arung Pagi Sore,,arung Pagi Sore,,-6.642440000,106.783940000,,,,,,2
+Jl. Harmoni Raya-Simpang Cibeureum,,Jl. Harmoni Raya-Simpang Cibeureum,,-6.640460000,106.784720000,,,,,,2
+Jl. H. Sanusi,,Jl. H. Sanusi,,-6.637120000,106.785250000,,,,,,2
+Jl. H. Mubarok,,Jl. H. Mubarok,,-6.634490000,106.786250000,,,,,,2	
+Tamansari Residence,,Tamansari Residence,,-6.630220000,106.788860000,,,,,,2
+Perumahan Mulyaharja 1,,Perumahan Mulyaharja 1,,-6.626450000,106.791420000,,,,,,2
+Nasi Goreng Telkom,,Nasi Goreng Telkom,,-6.624360000,106.793400000,,,,,,2
+SDN Cikaret 1,,SDN Cikaret 1,,-6.619430000,106.794640000,,,,,,2
+Masjid,,Masjid,,-6.616850000,106.793780000,,,,,,2
+Asrama STPP,,Asrama STPP,,-6.608960000,106.792220000,,,,,,2
+GOR Padjajaran Bogor,,GOR Padjajaran Bogor,,-6.578120000,106.798660000,,,,,,2
+Tier Siera,,Tier Siera,,-6.575980000,106.800220000,,,,,,2
+Jl. Merak,,Jl. Merak,,-6.573220000,106.802310000,,,,,,2
+Hutan Kota Ahmad Yani,,Hutan Kota Ahmad Yani,,-6.570680000,106.804210000,,,,,,2
+NN,, NN,,-6.562000000,106.800330000,,,,,,2
+Bogor Square,,Bogor Square,,-6.558830000,106.784840000,,,,,,2
+Masjid Tanah Sareal,,Masjid Tanah Sareal,,-6.557640000,106.788250000,,,,,,2
+SDN Situ Pete,,SDN Situ Pete,,-6.555270000,106.788270000,,,,,,2
+TKQ/TKA Miftahul Falah,,TKQ/TKA Miftahul Falah,,-6.552680000,106.788110000,,,,,,2
+Masjid Jami Baiturrohmah,,Masjid Jami Baiturrohmah,,-6.547810000,106.786870000,,,,,,2
+Polsek Tanah Sareal Bogor,,Polsek Tanah Sareal Bogor,,-6.542740000,106.783880000,,,,,,2	
+Jl. Pabuaran Cimanggis,,Jl. Pabuaran Cimanggis,,-6.538380000,106.782520000,,,,,,2
+Bumi Citra Kencana,,Bumi Citra Kencana,,-6.530790000,106.788360000,,,,,,2
+Kencana Green Residence,,Kencana Green Residence,,-6.526840000,106.788580000,,,,,,2
+Masjid Jami Al-Ikhlas,,Masjid Jami Al-Ikhlas,,-6.522600000,106.789380000,,,,,,2
+Masjid Jami Ar-Royan,,Masjid Jami Ar-Royan,,-6.518530000,106.788180000,,,,,,2
+Taman Griya Kencana,,Taman Griya Kencana,,-6.515580000,106.787030000,,,,,,2
+The 1O1 Bogor Suryakancana,,The 1O1 Bogor Suryakancana,,-6.6075922,106.8024492,,,,,,2
+Suryakencana,,Suryakencana,,-6.604740000,106.799710000,,,,,,2
+Nike Factory Store,,Nike Factory Store,,-6.611060000,106.811980000,,,,,,2
+Kesatuan,,Kesatuan,,-6.614140000,106.813720000,,,,,,2
+Villa Duta Pharmacies,,Villa Duta Pharmacies,,-6.612130600,106.814076600,,,,,,2
+TiluKopi,,TiluKopi,,-6.612193600,106.815387200,,,,,,2
+SDN DUTA PAKUAN,,SDN DUTA PAKUAN,,-6.613274000,106.818072500,,,,,,2
+ATM CIMB NIAGA (Indomaret Lingkar Bogor Utara (TMGR),,ATM CIMB NIAGA (Indomaret Lingkar Bogor Utara (TMGR)),,-6.612999000,106.820137000,,,,,,2
+Cimanggu Permai,,Cimanggu Permai,,-6.564190000,106.789800000,,,,,,2
+Permata Cimanggu,,Permata Cimanggu,,-6.567240000,106.789550000,,,,,,2
+Bharata Pura,,Bharata Pura,,-6.568360000,106.792640000,,,,,,2
+Jl. Asisor,,Jl. Asisor,,-6.569450000,106.790720000,,,,,,2
+Jl. Cimanggu,,Jl. Cimanggu,,-6.570210000,106.788080000,,,,,,2
+Kedai Traveler,,Kedai Traveler,,-6.573660000,106.787980000,,,,,,2
+Balai Besar Litbang SDLP,,Balai Besar Litbang SDLP,,-6.576060000,106.787950000,,,,,,2
+Bank BJB - Stasiun Bogor,,Bank BJB - Stasiun Bogor,,-6.595970000,106.791610000,,,,,,2
+Bank BRI Bogor,,Bank BRI Bogor,,-6.594940000,106.791830000,,,,,,2
+Pasar Anyar,,Pasar Anyar,,-6.591010000,106.792880000,,,,,,2
+arung Nasi Uduk Mang Apong,,arung Nasi Uduk Mang Apong,,-6.556020700,106.768335300,,,,,,2
+Jl. Akasia Raya,,Jl. Akasia Raya,,-6.568230000,106.781200000,,,,,,2
+Taman Boulevard,,Taman Boulevard,,-6.566320000,106.781030000,,,,,,2
+Jl. Taman Sari 3,,Jl. Taman Sari 3,,-6.565610000,106.779810000,,,,,,2
+Masjid Raya Taman Cimanggu,,Masjid Raya Taman Cimanggu,,-6.562850000,106.779550000,,,,,,2
+Jl. Taman Cimanggu Tengah,,Jl. Taman Cimanggu Tengah,,-6.562920000,106.777790000,,,,,,2
+RS. Salak Bogor,,RS. Salak Bogor,,-6.591010000,106.796980000,,,,,,2
+Sudirman 1,,Sudirman 1,,-6.588850000,106.796980000,,,,,,2
+Monumen & Museum PETA,,Monumen & Museum PETA,,-6.585240000,106.796870000,,,,,,2
+GOR Saojajar,,GOR Saojajar,,-6.588620000,106.794330000,,,,,,2
+Yogya Bogor Junction,,Yogya Bogor Junction,,-6.588660000,106.796890000,,,,,,2
+Polsek Bogor Tengah,,Polsek Bogor Tengah,,-6.581810000,106.793780000,,,,,,2
+Jl. Bubulak,,Jl. Bubulak,,-6.578140000,106.792660000,,,,,,2
+Jl. Pondok Rumput 1,,Jl. Pondok Rumput 1,,-6.573280000,106.793410000,,,,,,2
+Lapangan Pondok Rumput,,Lapangan Pondok Rumput,,-6.571270000,106.793770000,,,,,,2
+SDN Pondok Rumput,,SDN Pondok Rumput,,-6.569670000,106.793900000,,,,,,2
+Jl. Nusa Indah-Manunggal,,Jl. Nusa Indah-Manunggal,,-6.569770000,106.795660000,,,,,,2
+SDN Cimanggu,,SDN Cimanggu,,-6.569600000,106.784440000,,,,,,2
+Kios Sayur Inti Dapur,,Kios Sayur Inti Dapur,,-6.569190000,106.781810000,,,,,,2
+Ketoprak Japar - Taman Yasmin Sektor 2,,Ketoprak Japar - Taman Yasmin Sektor 2,,-6.566545600,106.772097100,,,,,,2
+Notaris Indyah Retno Purati,,Notaris Indyah Retno Purati,,-6.565777700,106.775593300,,,,,,2
+Jl. Durian Raya,,Jl. Durian Raya,,-6.616300000,106.816430000,,,,,,2
+Bantar Kemang,,Bantar Kemang,,-6.617970000,106.820270000,,,,,,2
+Nur Grosir Beras,,Nur Grosir Beras,,-6.620370000,106.821840000,,,,,,2
+Arief Dental,,Arief Dental,,-6.622790000,106.824320000,,,,,,2
+Gg. Pemuda,,Gg. Pemuda,,-6.624340000,106.827150000,,,,,,2
+warkop Tampomas,,warkop Tampomas,,-6.622260000,106.829340000,,,,,,2
+Kompleks Mutiara Bogor Raya,,Kompleks Mutiara Bogor Raya,,-6.619760000,106.831980000,,,,,,2
+Komplek Sindangbarang,,Komplek Sindangbarang,,-6.573640000,106.751550000,,,,,,2
+Terminal Laladon,,Terminal Laladon,,-6.576030000,106.753160000,,,,,,2
+Lampu Merah Laladon,,Lampu Merah Laladon,,-6.576540000,106.754720000,,,,,,2
+Pertamina,,Pertamina,,-6.578240000,106.759000000,,,,,,2
+Aspol,,Aspol,,-6.580130000,106.762870000,,,,,,2
+Akbid,,Akbid,,-6.580330000,106.766300000,,,,,,2
+Apotik Sindang Barang,,Apotik Sindang Barang,,-6.582400000,106.768910000,,,,,,2
+wisma Djuarsa,,isma Djuarsa,,-6.587770000,106.772140000,,,,,,2
+Masjid Jami' Nurul 'Amal,,Masjid Jami' Nurul 'Amal,,-6.591780000,106.775610000,,,,,,2
+Jl. Penggalang,,Jl. Penggalang,,-6.584330000,106.770590000,,,,,,2
+Pasar Gunung Batu,,Pasar Gunung Batu,,-6.594360000,106.777970000,,,,,,2
+Masjid Al-Huda,,Masjid Al-Huda,,-6.596780000,106.779180000,,,,,,2
+Kantor Kelurahan Pasirmulya,,Kantor Kelurahan Pasirmulya,,-6.599770000,106.77946000,,,,,,2
+Jl. Meranti 2,,Jl. Meranti 2,,-6.601180000,106.780630000,,,,,,2
+Masjid Al-Mustarih,,Masjid Al-Mustarih,,-6.601360000,106.783590000,,,,,,2
+Masjid Al Mu'Aanah,,Masjid Al Mu'Aanah,,-6.602680000,106.785530000,,,,,,2
+Notaris Ny. Rosa Triana,,Notaris Ny. Rosa Triana,,-6.605930000,106.787280000,,,,,,2
+Jl. Aria Surialaga,,Jl. Aria Surialaga,,-6.607060000,106.791840000,,,,,,2
+Gg. Harapan,,Gg. Harapan,,-6.605170000,106.792840000,,,,,,2
+Jl. Pulo Empang,,Jl. Pulo Empang,,-6.607440000,106.793460000,,,,,,2
+Gedung Serbaguna Chaerul Ummah,,Gedung Serbaguna Chaerul Ummah,,-6.612860000,106.795090000,,,,,,2
+Jl. Krupuk,,Jl. Krupuk,,-6.610560000,106.794780000,,,,,,2
+Kantor Camat Bogor Selatan,,Kantor Camat Bogor Selatan,,-6.612870000,106.797950000,,,,,,2
+Jl. Darul Quran,,Jl. Darul Quran,,-6.584580000,106.771850000,,,,,,2
+Puskesmas,,Puskesmas,,-6.578410000,106.762780000,,,,,,2
+SDN Sindangbarang 1,,SDN Sindangbarang 1,,-6.576910000,106.762330000,,,,,,2
+Musholla Nurul Iman,,Musholla Nurul Iman,,-6.575210000,106.761750000,,,,,,2
+Al-Hasbi,,Al-Hasbi,,-6.572410000,106.758950000,,,,,,2
+Griya Melati,,Griya Melati,,-6.567190000,106.753120000,,,,,,2
+Gg. Sumur 7,,Gg. Sumur 7,,-6.564440000,106.751170000,,,,,,2
+Rumah Makan Putri Minang,,Rumah Makan Putri Minang,,-6.559610000,106.749240000,,,,,,2
+Jl. Sindang Barang Jero,,Jl. Sindang Barang Jero,,-6.556830000,106.750430000,,,,,,2
+SMPN 14 Bogor,,SMPN 14 Bogor,,-6.555420000,106.747530000,,,,,,2
+Masjid Al-Ikhlas,,Masjid Al-Ikhlas,,-6.554460000,106.745120000,,,,,,2
+Kantor Lurah Situ Gede,,Kantor Lurah Situ Gede,,-6.551990000,106.745480000,,,,,,2
